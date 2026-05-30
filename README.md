@@ -35,19 +35,21 @@ MSBA (Data & Methods) @ Boston University Questrom · BS in Finance & Business A
 
 ### Finance & Business
 
-**[Finance Projects](https://drive.google.com/drive/u/0/folders/1yOroFoR-O3kL_npth7RPHupmYgVijZiE)** — DCF models (ATKR, TSLA), equity pitch decks (ATKR, SNCY), commercial airlines industry analysis, cross-functional strategy project, and guerrilla marketing pitch (DedCool).
+**[Finance Projects](https://drive.google.com/drive/folders/1gyWsiLKfbzvm6q7xsPM8KDpUogK11LBV?usp=drive_link)** — DCF models (ATKR, TSLA), equity pitch decks (ATKR, SNCY), commercial airlines industry analysis, cross-functional strategy project, and guerrilla marketing pitch (DedCool).
 
-**[Power BI Dashboard](https://drive.google.com/drive/u/0/folders/1yOroFoR-O3kL_npth7RPHupmYgVijZiE)** — Grocery retail analytics dashboard built in Power BI with sales, ratings, and target tracking.
+**[Power BI Dashboard](https://drive.google.com/drive/folders/1Fk2eQOekF3SKjM9hjcjEeaPo-R2Bb5_w?usp=drive_link)** — Grocery retail analytics dashboard built in Power BI with sales, ratings, and target tracking.
 
 ---
 
 ### Internships
 
-**[Boston Scientific](https://drive.google.com/drive/u/0/folders/1yOroFoR-O3kL_npth7RPHupmYgVijZiE)** · Health Economics & Market Access Intern
+**[Boston Scientific](https://drive.google.com/drive/folders/1ZuhhP9Hhxduf5McRxXHOplEGb2C8BdYv?usp=drive_link)** · Health Economics & Market Access Intern
 Insights on elective procedure volume and reimbursement trends → delivered to the Urology VP → presented at board level. Built cost models from Medicare claims data for devices used in 30,000+ annual procedures.
 
-**[VinaCapital](https://drive.google.com/drive/u/0/folders/1yOroFoR-O3kL_npth7RPHupmYgVijZiE)** ($4B AUM) · Macro & Fund Analytics Intern
+**[VinaCapital](https://drive.google.com/drive/folders/1ZuhhP9Hhxduf5McRxXHOplEGb2C8BdYv?usp=drive_link)** ($4B AUM) · Macro & Fund Analytics Intern
 Built a customer profitability model using regression in Python. Created the Chief Economic Officer's Q2 webinar deck on Vietnam's GDP and currency performance using Bloomberg + CEIC data.
+
+**[Letters of Recommendation](https://drive.google.com/drive/folders/1JALoU9w2VRJBES5O9LcnlD-HnzUs3my1?usp=drive_link)** — Boston Scientific, VinaCapital, and faculty recommendations.
 
 ---
 
