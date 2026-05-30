@@ -17,7 +17,7 @@ MSBA (Data & Methods) @ Boston University Questrom · BS in Finance & Business A
 ### Projects
 
 **[Predicting 30-Day Hospital Readmission](link)** · `Keras` `PySpark` `GCP Dataproc`
-> Neural network on 50K–80K ICU admissions from MIMIC-IV. Dual-branch architecture: SBERT-encoded clinical notes + structured vitals/labs. Built to help discharge teams flag high-risk patients before they leave.
+> Catches 70% of patients who'd be readmitted within 30 days. Multimodal neural network trained on 50K+ ICU admissions from MIMIC-IV. Tested 13 model variants across 3 encoders. Best AUC: 0.703. Built to save hospitals from the $17B annual cost of avoidable readmissions.
 
 **[Multi-Label ECG Classification](link)** · `PyTorch` `ResNet1D`
 > 27,765 twelve-lead ECG recordings → 5 cardiac condition predictions. Best model AUC: **0.823**. Evaluated 5 architectures including Transformer and graph neural network variants.
