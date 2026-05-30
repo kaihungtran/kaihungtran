@@ -14,19 +14,40 @@ MSBA (Data & Methods) @ Boston University Questrom · BS in Finance & Business A
 
 ---
 
-### Projects
+### ML Projects
 
-**[Predicting 30-Day Hospital Readmission](link)** · `Keras` `PySpark` `GCP Dataproc`
+**[Predicting 30-Day Hospital Readmission](https://github.com/kaihungtran/hospital-readmission-prediction)** · `ClinicalBERT` `Keras` `PySpark` `GCP`
 > Catches 70% of patients who'd be readmitted within 30 days. Multimodal neural network trained on 50K+ ICU admissions from MIMIC-IV. Tested 13 model variants across 3 encoders. Best AUC: 0.703. Built to save hospitals from the $17B annual cost of avoidable readmissions.
 
-**[Multi-Label ECG Classification](link)** · `PyTorch` `ResNet1D`
-> 27,765 twelve-lead ECG recordings → 5 cardiac condition predictions. Best model AUC: **0.823**. Evaluated 5 architectures including Transformer and graph neural network variants.
+**[Multi-Label ECG Classification](https://github.com/kaihungtran/ecg-classification)** · `PyTorch` `TransformerECG` `ResNet1D`
+> Benchmarked 5 deep learning architectures (CNN, Transformer, GNN, Wavelet) on 27,765 twelve-lead ECGs across 5 cardiac conditions. Best macro-AUC: 0.885 (TransformerECG). Published in NEJM Statistics in Data Science style.
 
-**[H-1B Visa Approval Predictor](link)** · `Gradient Boosting` `SMOTENC`
-> 3M+ immigration records. 88% accuracy, 91% precision on denied cases. Feature-engineered STEM classifications, wage bands, and employer regions from raw DOL data.
+**[H-1B Visa Approval Predictor](https://github.com/kaihungtran/h1b-visa-prediction)** · `Gradient Boosting` `SMOTENC` `ElasticNet`
+> 2.23M+ immigration records. Gradient Boosting AUC 0.949, 87.8% accuracy. Feature-engineered STEM classifications, wage bands, and employer dependency flags from raw DOL data.
 
-**[Childcare Market Segmentation](link)** · `PCA` `KMeans` `UMAP`
-> Clustered 3,100+ U.S. counties into 6 distinct childcare markets. Improved silhouette score from 0.24 → 0.47 using UMAP to handle outlier-distorted data. Built for policymakers targeting subsidy allocation.
+**[Childcare Market Segmentation](https://github.com/kaihungtran/childcare-market-segmentation)** · `UMAP` `KMeans` `PCA`
+> Clustered 2,500+ U.S. counties into distinct childcare markets. Silhouette score 0.24 → 0.47 — UMAP cracked what KMeans and Ward's couldn't. Built for policymakers targeting subsidy allocation.
+
+**[Employee Mental Health Prediction](https://github.com/kaihungtran/employee-mental-health)** · `KNN` `Decision Tree` `Random Forest` `Neural Networks`
+> Predicted employee stress levels across 5,000 records spanning work habits, industry, and lifestyle factors. 4 classification trials, 5 models benchmarked — KNN (k=49) beat the naive baseline by +4.93pp.
+
+---
+
+### Finance & Business
+
+**[Finance Projects](https://drive.google.com/drive/u/0/folders/1yOroFoR-O3kL_npth7RPHupmYgVijZiE)** — DCF models (ATKR, TSLA), equity pitch decks (ATKR, SNCY), commercial airlines industry analysis, cross-functional strategy project, and guerrilla marketing pitch (DedCool).
+
+**[Power BI Dashboard](https://drive.google.com/drive/u/0/folders/1yOroFoR-O3kL_npth7RPHupmYgVijZiE)** — Grocery retail analytics dashboard built in Power BI with sales, ratings, and target tracking.
+
+---
+
+### Internships
+
+**[Boston Scientific](https://drive.google.com/drive/u/0/folders/1yOroFoR-O3kL_npth7RPHupmYgVijZiE)** · Health Economics & Market Access Intern
+Insights on elective procedure volume and reimbursement trends → delivered to the Urology VP → presented at board level. Built cost models from Medicare claims data for devices used in 30,000+ annual procedures.
+
+**[VinaCapital](https://drive.google.com/drive/u/0/folders/1yOroFoR-O3kL_npth7RPHupmYgVijZiE)** ($4B AUM) · Macro & Fund Analytics Intern
+Built a customer profitability model using regression in Python. Created the Chief Economic Officer's Q2 webinar deck on Vietnam's GDP and currency performance using Bloomberg + CEIC data.
 
 ---
 
@@ -39,22 +60,12 @@ MSBA (Data & Methods) @ Boston University Questrom · BS in Finance & Business A
 
 ---
 
-### Past lives
-
-**Boston Scientific** · Health Economics & Market Access Intern
-Insights on elective procedure volume and reimbursement trends → delivered to the Urology VP → presented at board level. Built cost models from Medicare claims data for devices used in 30,000+ annual procedures.
-
-**VinaCapital** ($4B AUM) · Macro & Fund Analytics Intern
-Built a customer profitability model using regression in Python. Created the Chief Economic Officer's Q2 webinar deck on Vietnam's GDP and currency performance using Bloomberg + CEIC data.
-
----
-
 ### Off the clock
 
-📸 Photographer · 🍜 Eater of everything ([Beli: @thekaitran](link)) · 🐔 Raised chickens, parrots, hamsters, dogs & cats growing up — retirement plan is a farm and I'm not kidding
+📸 Photographer · 🍜 Eater of everything · 🐔 Raised chickens, parrots, hamsters, dogs & cats growing up — retirement plan is a farm and I'm not kidding
 
 ---
 
-**[Portfolio]** · **[LinkedIn]** · **kaihungtran@outlook.com**
+**[Full Portfolio](https://drive.google.com/drive/u/0/folders/1yOroFoR-O3kL_npth7RPHupmYgVijZiE)** · **[LinkedIn](https://linkedin.com/in/kaihungtran)** · **kaihungtran@outlook.com**
 
 Open to full-time roles in data analytics, data science, and business intelligence · Graduating Jan 2027 · OPT + STEM extension eligible
