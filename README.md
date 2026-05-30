@@ -65,6 +65,6 @@ Built a customer profitability model using regression in Python. Created the Chi
 
 ---
 
-**[Full Portfolio](https://drive.google.com/drive/u/0/folders/1yOroFoR-O3kL_npth7RPHupmYgVijZiE)** · **[LinkedIn](https://linkedin.com/in/kaihungtran)** · **kaihungtran@outlook.com**
+**[Full Portfolio](https://drive.google.com/drive/u/0/folders/1yOroFoR-O3kL_npth7RPHupmYgVijZiE)** · **[LinkedIn](https://www.linkedin.com/in/thekaitran/)** · **kaihungtran@outlook.com**
 
 Open to full-time roles in data analytics, data science, and business intelligence · Graduating Jan 2027 · OPT + STEM extension eligible
