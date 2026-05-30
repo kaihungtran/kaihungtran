@@ -14,22 +14,19 @@ MS in Business Analytics (Data & Methods) @ Boston University Questrom · BS in 
 
 ---
 
-### ML Projects
-
-**[Predicting 30-Day Hospital Readmission](https://github.com/kaihungtran/hospital-readmission-prediction)** · `ClinicalBERT` `Keras` `PySpark` `GCP`
-> Catches 70% of patients who'd be readmitted within 30 days. Multimodal neural network trained on 50K+ ICU admissions from MIMIC-IV. Tested 13 model variants across 3 encoders. Best AUC: 0.703. Built to save hospitals from the $17B annual cost of avoidable readmissions.
-
-**[Multi-Label ECG Classification](https://github.com/kaihungtran/ecg-classification)** · `PyTorch` `TransformerECG` `ResNet1D`
-> Benchmarked 5 deep learning architectures (CNN, Transformer, GNN, Wavelet) on 27,765 twelve-lead ECGs across 5 cardiac conditions. Best macro-AUC: 0.885 (TransformerECG). Published in NEJM Statistics in Data Science style.
-
-**[H-1B Visa Approval Predictor](https://github.com/kaihungtran/h1b-visa-prediction)** · `Gradient Boosting` `SMOTENC` `ElasticNet`
-> 2.23M+ immigration records. Gradient Boosting AUC 0.949, 87.8% accuracy. Feature-engineered STEM classifications, wage bands, and employer dependency flags from raw DOL data.
+### Recent ML Projects
 
 **[Childcare Market Segmentation](https://github.com/kaihungtran/childcare-market-segmentation)** · `UMAP` `KMeans` `PCA`
 > Clustered 2,500+ U.S. counties into distinct childcare markets. Silhouette score 0.24 → 0.47 — UMAP cracked what KMeans and Ward's couldn't. Built for policymakers targeting subsidy allocation.
 
-**[Employee Mental Health Prediction](https://github.com/kaihungtran/employee-mental-health)** · `KNN` `Decision Tree` `Random Forest` `Neural Networks`
-> Predicted employee stress levels across 5,000 records spanning work habits, industry, and lifestyle factors. 4 classification trials, 5 models benchmarked — KNN (k=49) beat the naive baseline by +4.93pp.
+**[Predicting 30-Day Hospital Readmission](https://github.com/kaihungtran/hospital-readmission-prediction)** · `ClinicalBERT` `Keras` `PySpark` `GCP`
+> Catches 70% of patients who'd be readmitted within 30 days. Multimodal neural network trained on 50K+ ICU admissions from MIMIC-IV. Tested 13 model variants across 3 encoders. Best AUC: 0.703. Built to save hospitals from the $17B annual cost of avoidable readmissions.
+
+**[H-1B Visa Approval Predictor](https://github.com/kaihungtran/h1b-visa-prediction)** · `Gradient Boosting` `SMOTENC` `ElasticNet`
+> 2.23M+ immigration records. Gradient Boosting AUC 0.949, 87.8% accuracy. Feature-engineered STEM classifications, wage bands, and employer dependency flags from raw DOL data.
+
+**[Multi-Label ECG Classification](https://github.com/kaihungtran/ecg-classification)** · `PyTorch` `TransformerECG` `ResNet1D`
+> Benchmarked 5 deep learning architectures (CNN, Transformer, GNN, Wavelet) on 27,765 twelve-lead ECGs across 5 cardiac conditions. Best macro-AUC: 0.885 (TransformerECG). Published in NEJM Statistics in Data Science style.
 
 ---
 
