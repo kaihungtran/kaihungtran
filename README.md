@@ -2,7 +2,7 @@
 
 **From Saigon. Training machines in Boston.**
 
-MSBA (Data & Methods) @ Boston University Questrom · BS in Finance & Business Analytics + CS Minor · First-gen student
+MS in Business Analytics (Data & Methods) @ Boston University Questrom · BS in Finance & Business Analytics + CS Minor · First-gen student
 
 ---
 
