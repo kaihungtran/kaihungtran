@@ -43,10 +43,10 @@ MSBA (Data & Methods) @ Boston University Questrom · BS in Finance & Business A
 
 ### Internships
 
-**[Boston Scientific](https://drive.google.com/drive/folders/1ZuhhP9Hhxduf5McRxXHOplEGb2C8BdYv?usp=drive_link)** · Health Economics & Market Access Intern
+**[Boston Scientific](https://drive.google.com/drive/folders/1y3koCqHxfX63fLkSvw8E-xVypfXwDmIg?usp=drive_link)** · Health Economics & Market Access Intern
 Insights on elective procedure volume and reimbursement trends → delivered to the Urology VP → presented at board level. Built cost models from Medicare claims data for devices used in 30,000+ annual procedures.
 
-**[VinaCapital](https://drive.google.com/drive/folders/1ZuhhP9Hhxduf5McRxXHOplEGb2C8BdYv?usp=drive_link)** ($4B AUM) · Macro & Fund Analytics Intern
+**[VinaCapital](https://drive.google.com/drive/folders/1_ms3MtPGJPXGgoJhH958VsrIgX_Axwwh?usp=drive_link)** ($4B AUM) · Macro & Fund Analytics Intern
 Built a customer profitability model using regression in Python. Created the Chief Economic Officer's Q2 webinar deck on Vietnam's GDP and currency performance using Bloomberg + CEIC data.
 
 **[Letters of Recommendation](https://drive.google.com/drive/folders/1JALoU9w2VRJBES5O9LcnlD-HnzUs3my1?usp=drive_link)** — Boston Scientific, VinaCapital, and faculty recommendations.
